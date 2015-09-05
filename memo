@@ -1,0 +1,18 @@
+Assignment 1, entropies
+MONK-1	1.0
+MONK-2	0.957117428265
+MONK-3	0.999806132805
+
+Assignment 2, information gain
+monk-1: 0.075273 0.005838 0.004708 0.026312 0.287031 0.000758
+monk-2: 0.003756 0.002458 0.001056 0.015664 0.017277 0.006248
+monk-3: 0.007121 0.293736 0.000831 0.002892 0.255912 0.007077
+
+Based on the results, which attribute should be used for splitting the examples
+at the root node?
+A: According to wiki, you should choose an attribute with high mutual information, which in this case is a_5
+
+Assignment 3, building trees
+0.828703703704
+0.69212962963
+0.944444444444
