@@ -13,6 +13,13 @@ at the root node?
 A: According to wiki, you should choose an attribute with high mutual information, which in this case is a_5
 
 Assignment 3, building trees
+
+E_test
 0.828703703704
 0.69212962963
 0.944444444444
+
+E_train
+1
+1
+1
